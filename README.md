@@ -1,8 +1,4 @@
-Ótimo! Um README bem escrito é crucial para guiar seus futuros alunos.
 
-Aqui está um modelo completo de README que você pode usar para o seu repositório. Ele explica o propósito do projeto, a estrutura e os conceitos de forma didática e clara.
-
----
 
 ### **README.md**
 
@@ -53,7 +49,7 @@ Focados em como os objetos interagem e delegam responsabilidades.
 * **Decorator:** "Adicionando complementos a um bolo" ou "equipar um personagem com itens".
 * **Strategy:** O "carro com diferentes modos de condução" (Econômico, Esportivo).
 
-## **Autor**
+## **Miqueias Soares Cardoso**
 
 * [Seu Nome Aqui]
 
